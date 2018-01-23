@@ -1,6 +1,6 @@
 DEX UI
 ===
-这是我的测试。
+**这是我的测试。**
 ![DEX UI Full Screenshot](http://i.imgur.com/2rjIbFa.png)
 
 *DEX UI is a handcrafted interface programmed in openFrameworks, running fullscreen underneath a functioning terminal, giving the experience of having a sci fi computer.* [More.](http://nnkd.org/dexui/)
